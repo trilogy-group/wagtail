@@ -1,7 +1,0 @@
-.git
-.idea
-**/node_modules
-**/build
-**/out
-.DS_Store
-.data
