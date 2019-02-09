@@ -1,4 +1,4 @@
-# TravelMate Development with DF Devspaces
+# Wagtail Development with DF Devspaces
 
 ## Install DF Devspaces
 
